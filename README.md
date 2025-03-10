@@ -7,7 +7,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/cloudysman/multi-threaded-service-crawler?color=teal)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87706805/216931612-d9d76541-bfce-4d4b-a995-131935341a62.png" alt="Multi-Threaded Service Crawler Banner" width="800px" />
+  <img src="[https://user-images.githubusercontent.com/87706805/216931612-d9d76541-bfce-4d4b-a995-131935341a62.png](https://0901.static.prezi.com/preview/v2/jm4dvgw23uengf6ilbkh2bkvrp6jc3sachvcdoaizecfr3dnitcq_3_0.png)" alt="Multi-Threaded Service Crawler Banner" width="800px" />
   <br>
   <em>A high-performance web crawler designed for extracting public service information from Vietnam's government portal (dichvucong.gov.vn) using a multi-threaded approach.</em>
 </div>
